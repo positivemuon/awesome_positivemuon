@@ -1,6 +1,6 @@
-********************
+====================
 Awesome PositiveMuon
-********************
+====================
 
 A commented bibliography for Muon Spin Spectroscopy ab-initio workflows
 
@@ -20,7 +20,7 @@ SC_force_conv
 Muon workflows
 ==============
 
-.. BM Huddart, A Hernández-Melián, TJ Hicken, M Gomilšek, Z Hawkhead, SJ Clark, FL Pratt, T Lancaster, MuFinder: A program to determine and analyse muon stopping sites, Computer Physics Communications, 280 108488 (2022), DOI 10.1016/j.cpc.2022.108488
+BM Huddart, A Hernández-Melián, TJ Hicken, M Gomilšek, Z Hawkhead, SJ Clark, FL Pratt, T Lancaster, MuFinder: A program to determine and analyse muon stopping sites, Computer Physics Communications, 280 108488 (2022), DOI 10.1016/j.cpc.2022.108488
    Muon stopping site automation
 
 ===================================
