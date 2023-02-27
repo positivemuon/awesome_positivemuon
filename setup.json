@@ -1,0 +1,22 @@
+{
+  "name": "awesome_positivemuon",
+  "version": "0.0.1",
+  "description": "Bibliography, please keep up-to-date",
+  "author": "Roberto De Renzi",
+  "author_email": "",
+  "url": "https://github.com/RDeRenzi/",
+  "license": "GPL",
+  "classifiers": [
+    "Development Status :: 3 - Alpha",
+    "Environment :: Curated Lists,
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Topic :: Scientific/Engineering :: Physics"
+  ],
+  "keywords": [
+    "spectroscopy"
+  ]
+}
